@@ -3,7 +3,7 @@
 
 ### Source Code File Directory
 
-* spring-board-assessment/src/utility/findNumberGreaterThan.js
+* follow the link: https://github.com/DannyNguyenCode/SpringBoardDataManagementAssessment/blob/main/spring-board-assessment/src/utility/findNumberGreaterThan.js
 
 ### How to Run Program on localhost
 
